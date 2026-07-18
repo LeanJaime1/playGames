@@ -1,0 +1,13 @@
+<?php
+
+require_once "../../functions/autoload.php";
+
+$id = $_GET['id'] ?? FALSE;
+$q = $_GET['q'] ?? 1;
+
+if($id){
+    Carrito::add_item($id,$q);
+    header('location: ../../index.php?view=carrito');
+}   else {
+    header('location: ../../index.php');
+}

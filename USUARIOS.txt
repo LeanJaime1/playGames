@@ -1,0 +1,11 @@
+SUPERADMIN
+nombre_usuario = leandro_jaime 
+password = superadmin123 
+
+ADMIN 
+nombre_usuario = lean_jaime 
+password = admin123
+
+USUARIO 
+nombre_usuario = l_jaime 
+password = usuario123
