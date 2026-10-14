@@ -9,7 +9,7 @@ E-commerce de videojuegos desarrollado 100% con PHP vanilla (sin frameworks) com
 - Base de datos relacional en MySQL
 
 ## 🛠️ Tecnologías
-PHP · MySQL · HTML5 · CSS3 · [JavaScript]
+PHP · MySQL · HTML5 · CSS3
 
 ## 🚀 Correr el proyecto en local
 1. Instalá [XAMPP](https://www.apachefriends.org/) o similar y levantá Apache y MySQL.
